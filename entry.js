@@ -1,3 +1,3 @@
-var msg = require('./hello.js');
+var msg = require('./hello.js');//aa
 console.log('MSG:',msg);
 
