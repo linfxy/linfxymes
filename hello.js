@@ -1,1 +1,1 @@
-module.exports = 'hello gt1';//bbcc
+module.exports = 'hello gt';//bbcc
